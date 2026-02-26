@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # trust-region-pch
-=======
+
 # PCH (Projection Convex Hull)
 This repository provides a self-contained implementation of **PCH** and a runnable demo on a synthetic **Polyhedron** benchmark.
 
@@ -47,4 +47,4 @@ Data/
 
 ## License
 MIT License (see `LICENSE`).
->>>>>>> master
+
