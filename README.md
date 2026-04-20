@@ -1,8 +1,10 @@
 
-# trust-region-pch
-
 # PCH (Projection Convex Hull)
-This repository provides a self-contained implementation of **PCH** and a runnable demo on a synthetic **Polyhedron** benchmark.
+This repository provides a self-contained implementation of **PCH** and a runnable demo on a synthetic **Polyhedron** benchmark. It is the official repository for Scalable and Adaptive Trust-Region Learning via Projection Convex Hull.
+
+- Paper (ICLR): https://openreview.net/forum?id=Kjcs0xJxdg  
+
+---
 
 ## Requirements
 - Python **3.9+** (required by dictionary merge / modern tooling)
